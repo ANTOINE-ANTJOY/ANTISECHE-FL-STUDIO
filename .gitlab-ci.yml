@@ -1,4 +1,4 @@
-image: docker:alpine
+image: alpine
 
 services:
   - docker:dind
