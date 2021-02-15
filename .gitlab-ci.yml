@@ -32,4 +32,4 @@ deploy-staging:
       - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
       - chmod 700 ~/.ssh
     script:
-      - scp -r dist/ $SSH_HOST_STAGING:$SSH_PATH_STAGING
+      - scp -r dist/* $SSH_HOST_STAGING:$SSH_PATH_STAGING
