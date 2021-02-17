@@ -1,4 +1,4 @@
-# Hello VuePress
+# Les raccourcis
 
 ## Raccourcis globaux
 
@@ -44,7 +44,7 @@ Retour pas à pas. `Ctrl`+`Alt`+`Z`
 - Décompresser le ou les channels sélectionnées `Alt` + `U`	
 - Zipper le channel sélectionné (s) `Alt` + `Z`	
 - Forcer le redémarrage de tous les channels de clip audio`Ctrl` + `Alt` + `R`	
-- Copier les steps / le partition du channel `Ctrl` + `C`	Copier les steps / le partition de la channel
+- Copier les steps / le partition du channel `Ctrl` + `C`
 - Acheminer les channels sélectionnés vers les inserts de mixage disponnibles `Ctrl` + `L`	
 - Coller les steps / le partition du channel `Ctrl` + `V`	
 - Couper les steps / partition du channel`Ctrl` + `X`	
@@ -53,3 +53,21 @@ Retour pas à pas. `Ctrl`+`Alt`+`Z`
 - Déplacer la sélection de channel vers le bas `Maj` + `Flèche vers le bas`	
 - Décaler les steps vers la gauche `Maj` + `Ctrl` + `Flèche gauche`	
 - Décaler les steps vers la droite `Maj` + `Ctrl` + `Flèche droite`	
+
+## Raccourcis pour l'enregistrement / lecture de la timeline
+
+- Basculer ligne / Aucun accrochage`Retour arrière`
+- Démarrer / arrêter la lecture `Espacer`	
+- Démarrer / interrompre la lecture `Ctrl` + `Espace`	
+- Changer le mode Pattern / Song `L`	
+- Activer / désactiver l'enregistrement (cela fonctionne également pendant la lecture)`R`	
+- Avance rapide `0` (pavé numérique)	
+- Barre précédente (mode Song) `/` (Pavé numérique)	
+- (Pavé numérique)	Barre suivante (mode Song)`*` 
+- Activer / désactiver le mode d'édition par étapes`Ctrl` + `E`	
+- Arrêter le son (panique) `Ctrl` + `H`	
+- Basculer le clavier de saisie sur le clavier du piano `Ctrl` + `T`	
+- Basculer les notes de fusion `Ctrl` + `B`	
+- Basculer le métronome`Ctrl` + `M`	
+- Basculer l'enregistrement du précompte du métronome`Ctrl` + `P`	
+- Activer / désactiver l'attente d'entrée pour démarrer l'enregistrement`Ctrl` + `I`	
