@@ -183,68 +183,68 @@ Retour pas à pas. `Ctrl`+`Alt`+`Z`
 
 ## Raccourcis pour le piano roll
 
-`B`	Paint tool
-`C`	Slice tool
-`D`	Delete tool
-`E`	Select tool
-`F`	Show next property in the Piano roll event lane (lower section)
-`G`	Select the Channel above
-`H`	Select the Channel above with note data
-`J`	Select the Channel below with note data
-`K`	Select the Channel below
-`M`	Toggle Keyboard view mode
-`O`	Toggle Portamento
-`P`	Draw tool (pencil)
-`T`	Mute tool
-`Y`	Playback tool
-`Z`	Zoom tool
-`Alt`	Bypass snap (very useful when combined with other modifiers)
-`Alt`+`A`	Arpeggiator
-`Alt`+`B`	View note helpers
-`Alt`+`C`	Change color of selected note/s (to selected color group)
-`Alt`+`E`	Riff machine
-`Alt`+`F`	Flam
-`Alt`+`G`	Ungroup selected notes
-`Alt`+`K`	Open Limit tool
-`Alt`+`L`	Open Articulate tool
-`Alt`+`M`	Mute selection
-`Alt`+`N`	Switch waveform helper view (when available).
-`Alt`+`O`	Open LFO tool when in lower Event Editor area
-`Alt`+`Q`	Quantize
-`Alt`+`R`	Open Randomize tool
-`Alt`+`S`	Open Strum tool
-`Alt`+`U`	Open Chop tool
-`Alt`+`V`	Toggle Ghost Channels ON/OFF
-`Alt`+`W`	Open Claw Machine tool
-`Alt`+`X`	Open Scale Levels tool
-`Alt`+`Y`	Open Score Flipper tool
-`Alt`+`Shift`+M`	Unmute selection
-`Alt`+`Mouse-wheel`	Change the selected note property of the note the mouse pointer is near or on.
-`Alt`+`Arrow keys`	Nudge the position of the selected note/s OR all notes if no selection is made.
-`Backspace`	Toggle Global Snap (none, current setting)
-`Ctrl`+`A`	Select All
-`Ctrl`+`B`	Duplicate selection, or all notes in zoom range if nothing is selected, to the right. Works also with time-line selections.
-`Ctrl`+`C`	Copy selection
-`Ctrl`+`D`	Deselect selection
-`Ctrl`+`G`	Glue selected and touching notes
-`Ctrl`+`I`	Insert current controller value
-`Ctrl`+`L`	Quick legato
-`Ctrl`+`M`	Import MIDI file
-`Ctrl`+`Q`	Quick Quantize
-`Ctrl`+`U`	Quick Chop
-`Ctrl`+`V`	Paste selection
-`Ctrl`+`X`	Cut selection
-`Ctrl`+`Alt`+`G`	Grid Color
-`Ctrl`+`Alt`+`Home`	Toggle allow resizing from left
-`Ctrl`+`Delete`	Delete space equal to selection
-`Ctrl`+`Enter`	Select time around selection
-`Ctrl`+`Insert`	Insert space equal to the current time-line selection
-`Ctrl`+`Up``Arro/Down-Arrow`	Transpose selection UP/Down 1 Octave
-`Ctrl`+`Left-Arrow/Right-Arrow`	Select time before (left) or after (right) current selection
-`Ctrl`+`Left`-`click`	Select
-`Ctrl`+`Shift`+`Left`-click	Add to selection
-`Ctrl`+`RightClick`	Zoom on selection/Drag to make zoom selection (zoom on release)
-`Del`	Delete selected
+`B`	Outil de peinture
+`C`	Outil de tranche
+`D`	Supprimer l'outil
+`E`	Sélectionner l'outil
+`F`	Afficher la propriété suivante dans la voie des événements Piano Roll (section inférieure)
+`g`	Sélectionnez la chaîne ci-dessus
+`H`	Sélectionnez le canal ci-dessus avec les données de note
+`J`	Sélectionnez le canal ci-dessous avec les données de note
+`K`	Sélectionnez la chaîne ci-dessous
+`M`	Activer / désactiver le mode d'affichage du clavier
+`O`	Basculer le portamento
+`P`	Outil de dessin (crayon)
+`T`	Outil muet
+`Y`	Outil de lecture
+`Z`	Outil de zoom
+`Alt`	`Bypass snap` (très utile lorsqu'il est combiné avec d'autres modificateurs)
+`Alt` + `A`	Arpégiateur
+`Alt` + `B`	Afficher les aides de notes
+`Alt` + `C`	Changer la couleur de la / des note / s sélectionnée (au groupe de couleurs sélectionné)
+`Alt` + `E`	Machine à riff
+`Alt` + `F`	Flam
+`Alt` + `G`	Dissocier les notes sélectionnées
+`Alt` + `K`	Outil de limite ouverte
+`Alt` + `L`	Ouvrir l'outil Articulate
+`Alt` + `M`	Sélection de sourdine
+`Alt` + `N`	Changer la vue de l'assistant de forme d'onde (si disponible).
+`Alt` + `O`	Ouvrez l'outil LFO dans la zone inférieure de l'éditeur d'événements
+`Alt` + `Q`	Quantifier
+`Alt` + `R`	Ouvrir l'outil Randomize
+`Alt` + `S`	Ouvrir l'outil Strum
+`Alt` + `U`	Ouvrir l'outil Chop
+`Alt` + `V`	Activer / désactiver les canaux fantômes
+`Alt` + `W`	Machine-outil à griffes ouvertes
+`Alt` + `X`	Ouvrir l'outil Niveaux d'échelle
+`Alt` + `Y`	Ouvrir l'outil Score Flipper
+`Alt` + `Maj` + `M`	Activer la sélection
+`Alt` + `molette de la souris`	Modifiez la propriété de note sélectionnée de la note sur laquelle se trouve le pointeur de la souris.
+`Alt` + `touches fléchées`	Décalez la position de la / des note (s) sélectionnée (s) OU de toutes les notes si aucune sélection n'est effectuée.
+`Retour` `arrière`	Activer / désactiver l'accrochage global (aucun, paramètre actuel)
+`Ctrl` + `A`	Tout sélectionner
+`Ctrl` + `B`	Dupliquer la sélection, ou toutes les notes dans la plage de zoom si rien n'est sélectionné, vers la droite. Fonctionne également avec les sélections chronologiques.
+`Ctrl` + `C`	Copier la sélection
+`Ctrl` + `D`	Désélectionner la sélection
+`Ctrl` + `G`	Collez les notes sélectionnées et touchantes
+`Ctrl` + `I`	Insérer la valeur actuelle du contrôleur
+`Ctrl` + `L`	Légato rapide
+`Ctrl` + `M`	Importer un fichier MIDI
+`Ctrl` + `Q`	Quantification rapide
+`Ctrl` + `U`	Hache rapide
+`Ctrl` + `V`	Coller la sélection
+`Ctrl` + `X`	Couper la sélection
+`Ctrl` + `Alt` + `G`	Couleur de la grille
+`Ctrl` + `Alt` + `Début`	Activer / désactiver le redimensionnement à partir de la gauche
+`Ctrl` + `Suppr`	Supprimer l'espace égal à la sélection
+`Ctrl` + `Entrée`	Sélectionnez le temps autour de la sélection
+`Ctrl` + `Inser`	Insérer un espace égal à la sélection de ligne de temps actuelle
+`Ctrl` + `Flèche Haut` / `Flèche Bas`	Transposer la sélection UP / Down 1 octave
+`Ctrl` + `Flèche gauche` / `Flèche droite`	Sélectionnez l'heure avant (à gauche) ou après (à droite) la sélection actuelle
+`Ctrl` + `clic gauche`	Sélectionner
+`Ctrl` + `Maj` + `clic gauche`	Ajouter à la sélection
+`Ctrl` + `clic droit`	Zoom sur la sélection / Faites glisser pour effectuer un zoom sur la sélection (zoom au relâchement)
+`Del`	Supprimer sélectionnée
 `Double-cliquez` sur la note	Ouvrir les propriétés de la note
 `Double clic droit` ou bouton X1 sur la note Ghost	Basculez vers Ghost Channel pour modifier la note.
 `Maj gauche` + `clic gauche` (sur piano roll)	Ajouter et redimensionner des notes (déplacez la souris vers G / D après un clic et maintenez pour redimensionner)
