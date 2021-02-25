@@ -71,3 +71,48 @@ Retour pas à pas. `Ctrl`+`Alt`+`Z`
 - Basculer le métronome`Ctrl` + `M`	
 - Basculer l'enregistrement du précompte du métronome`Ctrl` + `P`	
 - Activer / désactiver l'attente d'entrée pour démarrer l'enregistrement`Ctrl` + `I`	
+
+## Raccourcis pour gérer/naviguer dans les fenêtres FL
+
+- Faire défiler les fenêtres imbriquées`TAB`	
+- Ouvrir le sélecteur de plugins`F8`	
+- Activer / désactiver la liste de lecture Max / Min `Entrer`	
+- Ferme une fenêtre `Esc`	
+- Cette aide`F1`	
+- Toggle Playlist`F5`	
+- Toggle Step Sequencer`F6`	
+- Toggle Piano Roll`F7`	
+- Afficher / masquer le navigateur d'échantillons`Alt` + `F8`	
+- Afficher / masquer le mixeur`F9`	
+- Afficher / masquer les paramètres MIDI`F10`	
+- Afficher / masquer la fenêtre d'informations sur la chanson`F11`	
+- Fermez toutes les fenêtres`F12`	
+- Organiser les fenêtres`Ctrl` + `Maj` + `H`	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
