@@ -107,78 +107,78 @@ Retour pas à pas. `Ctrl`+`Alt`+`Z`
 
 
 ## Raccourcis pour la playlist
-B	Outil de peinture
-C	Outil de tranche
-ré	Supprimer l'outil
-E	Sélectionner l'outil
-P	Outil de dessin (crayon)
-S	Outil d'édition de glissement
-T	Outil muet
-Oui	Outil de lecture
-Z	Outil de zoom
-Alt	Bypass snap (très utile lorsqu'il est combiné avec d'autres modificateurs)
-Alt + G	Dissocier la sélection
-Alt + M	Sélection de sourdine
-Alt + P	Ouvrez le panneau de sélection
-Alt + T	Ajouter un marqueur de temps
-Alt + / * et Ctrl + Alt + / *	Aller au marqueur de morceau suivant / précédent (si présent)
-Alt + clic gauche	Commutateurs de mise en sourdine des pistes groupées - Tout activer / désactiver le son.
-Alt + clic droit	Écoutez le clip sélectionné.
-Alt + Maj droite	Activez le mode Slice gratuit, relâchez Alt après avoir cliqué sur le clip pour utiliser l'accrochage.
-Alt + Maj + M	Activer la sélection
-Ctrl + A	Tout sélectionner
-Retour arrière	Activer / désactiver l'accrochage global (aucun, paramètre actuel)
-Ctrl + B	Dupliquer la sélection (ou tous les clips dans la plage de zoom si rien n'est sélectionné) vers la droite.
-Ctrl + C	Copier la sélection
-Ctrl + D	Désélectionner la sélection
-Ctrl + P	Basculer en mode Performance
-Ctrl + T	Ajouter un marqueur de temps
-Ctrl + V	Coller la sélection
-Ctrl + X	Couper la sélection
-Ctrl + Alt + C	Consolider les motifs / clips audio sélectionnés en audio, en commençant par le premier clip sélectionné
-Ctrl + Alt + Maj + C	Consolider les motifs / clips audio sélectionnés en audio, à partir du début de la liste de lecture
-Ctrl + Alt + G	Couleur de la grille
-Ctrl + Alt + Début	Basculer le redimensionnement à partir de la gauche
-Ctrl + F8	Ouvrir le sélecteur de projet
-Ctrl + Ins	Ajouter un espace au début de la sélection de la chronologie de longueur égale à la sélection
-Ctrl + Suppr	Supprimer l'espace en fonction de la sélection de la chronologie
-Ctrl + Entrée	Sélectionnez le temps autour de la sélection
-Ctrl + Flèche gauche / Flèche droite	Sélectionnez le temps avant / après la sélection égale à la longueur de la sélection
-Ctrl + clic gauche	Sélectionner
-Ctrl + Maj + clic gauche	Ajouter à la sélection
-Ctrl + Maj + clic droit	Zoom sur le clip sélectionné
-Ctrl + clic droit	Zoom sur la sélection / Faites glisser pour effectuer un zoom sur la sélection (zoom au relâchement)
-Del	Supprimer les données source du clip / motif sélectionné
-Double-cliquez sur le clip / motif	Ouvrir les propriétés du clip / motif (par exemple, Paramètres de canal, Piano roll)
-Maison	Déplacez le marqueur de lecture au début de la liste de lecture.
-Insérer la clé	Découper le clip à la position du curseur de la souris
-Maj gauche + clic gauche (sur la liste de lecture)	Ajouter et redimensionner un clip / motif (déplacer la souris vers la gauche / droite après avoir cliqué et maintenu pour redimensionner). Doit être en mode dessin (icône de crayon).
-Maj gauche + clic droit	Vue panoramique
-Bouton central de la souris	Vue panoramique (maintenez et faites glisser vers la gauche / droite)
-PgUp / PgDown	Zoom avant Zoom arrière
-Outil de dessin + Maj	Passer à la peinture
-Clic-droit	Supprimer le clip / motif sélectionné
-Maj droite + clic gauche	Couper le clip / motif (cliquez au-dessus / au-dessous du clip / motif et faites glisser verticalement)
-Alt droite + Maj droite + clic gauche	Clip de tranche verticale. Relâchez alt pour engager le snap.
-Maj droite + clic droit	Découpez le clip / motif et supprimez la plus petite partie (cliquez au-dessus / au-dessous du clip / motif et faites glisser verticalement)
-Alt droit + clic droit	Quantifier sélectionné
-Alt droit + clic gauche	Muet sélectionné
-Maj + C	Sélectionnez tous les clips en fonction de la source de clip actuellement sélectionnée
-Maj + G	Regrouper les clips sélectionnés
-Maj + I	Inverser la sélection
-Maj + Q	Quantification rapide des heures de début des clips
-Maj + Flèche Gauche / Flèche Droite	Déplacer la sélection vers la gauche / droite
-Maj + Flèche Haut / Flèche Bas	Déplacer la sélection vers le haut / le bas
-Maj + clic gauche (sur le clip / motif)	Cloner (faire glisser tout en maintenant le clip / motif)
-Maj + molette de la souris (sur les clips)	Déplacer la position du clip
-Maj + Alt + T	Définir une signature rythmique au niveau de la tête de lecture ou de la sélection d'heure
-Maj + M	Changer de mode d'étirement
-Maj + molette de la souris (dans la zone d'étiquette de piste)	Réorganiser les pistes de clip
-Maj + 0 (zéro)	Centrer la liste de lecture sur la position de la tête de lecture (numéros au-dessus des touches de saisie)
-Maj + 1 à 3	Niveaux de zoom horizontal 1 (zoom arrière) à 3 (zoom avant), (chiffres au-dessus des touches de saisie)
-Maj + 4	Zoom horizontal, tout afficher (chiffres au-dessus des touches de saisie)
-Maj + 5	Zoom sur la sélection (chiffres au-dessus des touches de saisie)
-Maj + 6	Ajuster la zone de performance à la liste de lecture (numéros au-dessus des touches de saisie)
+`B`	Outil de peinture
+`C`	Outil de tranche
+`ré`	Supprimer l'outil
+`E`	Sélectionner l'outil
+`P`	Outil de dessin (crayon)
+`S`	Outil d'édition de glissement
+`T`	Outil muet
+`Y`	Outil de lecture
+`Z`	Outil de zoom
+`Alt`	Bypass snap (très utile lorsqu'il est combiné avec d'autres modificateurs)
+`Alt` + `G`	Dissocier la sélection
+`Alt` + `M`	Sélection de sourdine
+`Alt` + `P`	Ouvrez le panneau de sélection
+`Alt` + `T`	Ajouter un marqueur de temps
+`Alt` + `/ *` et `Ctrl` + `Alt` + `/ *`	Aller au marqueur de morceau suivant / précédent (si présent)
+`Alt` + `clic gauche`	Commutateurs de mise en sourdine des pistes groupées - Tout activer / désactiver le son.
+`Alt` + `clic droit`	Écoutez le clip sélectionné.
+`Alt` + `Maj droite`	Activez le mode Slice gratuit, relâchez Alt après avoir cliqué sur le clip pour utiliser l'accrochage.
+`Alt` + `Maj` + `M`	Activer la sélection
+`Ctrl` +`A`	Tout sélectionner
+`Retour arrière`	Activer / désactiver l'accrochage global (aucun, paramètre actuel)
+`Ctrl` + `B`	Dupliquer la sélection (ou tous les clips dans la plage de zoom si rien n'est sélectionné) vers la droite.
+`Ctrl` + `C`	Copier la sélection
+`Ctrl` + `D`	Désélectionner la sélection
+`Ctrl` + `P`	Basculer en mode Performance
+`Ctrl` + `T`	Ajouter un marqueur de temps
+`Ctrl` + `V`	Coller la sélection
+`Ctrl` + `X`	Couper la sélection
+`Ctrl` + `Alt` + `C`	Consolider les motifs / clips audio sélectionnés en audio, en commençant par le premier clip sélectionné
+`Ctrl` + `Alt` + `Maj` +`C`	Consolider les motifs / clips audio sélectionnés en audio, à partir du début de la liste de lecture
+`Ctrl` + `Alt` + `G`	Couleur de la grille
+`Ctrl` + `Alt` + `Début`	Basculer le redimensionnement à partir de la gauche
+`Ctrl` + `F8`	`Ouvrir le sélecteur de projet`
+`Ctrl` + `Ins`	Ajouter un espace au début de la sélection de la chronologie de longueur égale à la sélection
+`Ctrl` + `Suppr`	Supprimer l'espace en fonction de la sélection de la chronologie
+`Ctrl` + `Entrée`	Sélectionnez le temps autour de la sélection
+`Ctrl` + `Flèche gauche` / `Flèche droite`	Sélectionnez le temps avant / après la sélection égale à la longueur de la sélection
+`Ctrl` + `clic gauche`	Sélectionner
+`Ctrl` + `Maj` + `clic gauche`	Ajouter à la sélection
+`Ctrl` + `Maj` + `clic droit`	Zoom sur le clip sélectionné
+`Ctrl` + `clic droit`	Zoom sur la sélection / Faites glisser pour effectuer un zoom sur la sélection (zoom au relâchement)
+`Del`	Supprimer les données source du clip / motif sélectionné
+`Double-cliquez sur le clip / motif`	Ouvrir les propriétés du clip / motif (par exemple, Paramètres de canal, Piano roll)
+`Maison`	Déplacez le marqueur de lecture au début de la liste de lecture.
+`Insérer la clé`	Découper le clip à la position du curseur de la souris
+`Maj` `gauche` + `clic` `gauche` (sur la liste de lecture)	Ajouter et redimensionner un clip / motif (déplacer la souris vers la gauche / droite après avoir cliqué et maintenu pour redimensionner). Doit être en mode dessin (icône de crayon).
+`Maj` `gauche` + `clic droit`	Vue panoramique
+`Bouton central de la souris`	Vue panoramique (maintenez et faites glisser vers la gauche / droite)
+`PgUp` / `PgDown`	Zoom avant Zoom arrière
+`Outil de dessin + Maj`	Passer à la peinture
+`Clic-droit`	Supprimer le clip / motif sélectionné
+`Maj droite` + `clic gauche`	Couper le clip / motif (cliquez au-dessus / au-dessous du clip / motif et faites glisser verticalement)
+`Alt droite` + `Maj droite` + `clic gauche`	Clip de tranche verticale. Relâchez alt pour engager le snap.
+`Maj droite` + `clic droit`	Découpez le clip / motif et supprimez la plus petite partie (cliquez au-dessus / au-dessous du clip / motif et faites glisser verticalement)
+`Alt droit` + `clic droit`	Quantifier sélectionné
+`Alt droit` + `clic gauche`	Muet sélectionné
+`Maj` + `C`	Sélectionnez tous les clips en fonction de la source de clip actuellement sélectionnée
+`Maj` + `G`	Regrouper les clips sélectionnés
+`Maj` + `I`	Inverser la sélection
+`Maj` + `Q`	Quantification rapide des heures de début des clips
+`Maj` + `Flèche Gauche` / `Flèche Droite`	Déplacer la sélection vers la gauche / droite
+`Maj` + `Flèche Haut` / `Flèche Bas`	Déplacer la sélection vers le haut / le bas
+`Maj` + `clic gauche` (sur le clip / motif)	Cloner (faire glisser tout en maintenant le clip / motif)
+`Maj` + `molette de la souris` (sur les clips)	Déplacer la position du clip
+`Maj` + `Alt` + `T`	Définir une signature rythmique au niveau de la tête de lecture ou de la sélection d'heure
+`Maj` + `M`	Changer de mode d'étirement
+`Maj` + `molette de la souris` (dans la zone d'étiquette de piste)	Réorganiser les pistes de clip
+`Maj` + `0` (zéro)	Centrer la liste de lecture sur la position de la tête de lecture (numéros au-dessus des touches de saisie)
+`Maj` + `1 à 3`	Niveaux de zoom horizontal 1 (zoom arrière) à 3 (zoom avant), (chiffres au-dessus des touches de saisie)
+`Maj` + `4`	Zoom horizontal, tout afficher (chiffres au-dessus des touches de saisie)
+`Maj` + `5`	Zoom sur la sélection (chiffres au-dessus des touches de saisie)
+`Maj` + `6`	Ajuster la zone de performance à la liste de lecture (numéros au-dessus des touches de saisie)
 
 
 
