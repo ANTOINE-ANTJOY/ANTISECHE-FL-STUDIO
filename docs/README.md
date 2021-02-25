@@ -79,9 +79,9 @@ Retour pas à pas. `Ctrl`+`Alt`+`Z`
 - Activer / désactiver la liste de lecture Max / Min `Entrer`	
 - Ferme une fenêtre `Esc`	
 - Cette aide`F1`	
-- Toggle Playlist`F5`	
-- Toggle Step Sequencer`F6`	
-- Toggle Piano Roll`F7`	
+- Ouvrir la Playlist`F5`	
+- Ouvrir le Step Sequencer`F6`	
+- Ouvrir le Piano Roll`F7`	
 - Afficher / masquer le navigateur d'échantillons`Alt` + `F8`	
 - Afficher / masquer le mixeur`F9`	
 - Afficher / masquer les paramètres MIDI`F10`	
@@ -89,9 +89,20 @@ Retour pas à pas. `Ctrl`+`Alt`+`Z`
 - Fermez toutes les fenêtres`F12`	
 - Organiser les fenêtres`Ctrl` + `Maj` + `H`	
 
+## Raccourcis pour le mixer
 
-
-
+`Alt` + `Flèche gauche` / `Flèche droite`	Déplacer la ou les pistes de mixage sélectionnées vers la gauche / droite
+`Alt` + `L`	Sélectionnez les canaux liés à la piste de mixage sélectionnée
+`Alt` + `W`	Activer / désactiver la vue 'Wave' du Peak-mètre
+`Ctrl` + `L`	Lier les canaux sélectionnés à la piste de mixage sélectionnée
+`Maj` + `Ctrl` + `L`	Lier les canaux sélectionnés À partir de la piste de mixage sélectionnée
+`Maj` + `molette de la souris`	Déplacer la / les piste (s) de mixage sélectionnée (s) vers la gauche / droite (passage avec la souris)
+`Ctrl` + `Maj` + `clic gauche`	Sélectionnez plusieurs pistes de mixage
+`Ctrl` + `Maj` + `S`	Enregistrer l'état de la piste du mixeur
+`F2` Renommer la piste de mixage sélectionnée
+`S`	Solo Piste actuelle
+`Alt` + `S`	Alt Solo - Activer la piste actuelle et toutes les pistes acheminées vers / à partir de celle-ci
+`Alt` + `R`	Rendre les pistes armées en .wav
 
 
 
