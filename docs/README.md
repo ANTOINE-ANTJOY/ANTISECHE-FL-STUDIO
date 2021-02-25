@@ -183,102 +183,102 @@ Retour pas à pas. `Ctrl`+`Alt`+`Z`
 
 ## Raccourcis pour le piano roll
 
-Outil de peinture`B`	
-Outil de tranche`C`	
-Supprimer l'outil`D`	
-Sélectionner l'outil`E`	
-Afficher la propriété suivante dans la voie des événements Piano Roll (section inférieure)`F`	
-Sélectionnez la chaîne ci-dessus`g`	
-Sélectionnez le canal ci-dessus avec les données de note`H`	
-Sélectionnez le canal ci-dessous avec les données de note`J`	
-Sélectionnez la chaîne ci-dessous`K`	
-Activer / désactiver le mode d'affichage du clavier`M`	
-Basculer le portamento`O`	
-Outil de dessin (crayon)`P`	
-Outil muet`T`	
-Outil de lecture`Y`	
-Outil de zoom`Z`	
-(très utile lorsqu'il est combiné avec d'autres modificateurs)`Alt`	`Bypass snap` 
-Arpégiateur`Alt` + `A`	
-Afficher les aides de notes`Alt` + `B`	
-Changer la couleur de la / des note / s sélectionnée (au groupe de couleurs sélectionné)`Alt` + `C`	
-Machine à riff`Alt` + `E`	
-Flam `Alt` + `F`	
-Dissocier les notes sélectionnées`Alt` + `G`	
-Outil de limite ouverte`Alt` + `K`	
-Ouvrir l'outil Articulate`Alt` + `L`	
-Sélection de sourdine`Alt` + `M`	
-Changer la vue de l'assistant de forme d'onde (si disponible).`Alt` + `N`	
-Ouvrez l'outil LFO dans la zone inférieure de l'éditeur d'événements`Alt` + `O`	
-Quantifier`Alt` + `Q`	
-Ouvrir l'outil Randomize`Alt` + `R`	
-Ouvrir l'outil Strum`Alt` + `S`	
-Ouvrir l'outil Chop`Alt` + `U`	
-Activer / désactiver les canaux fantômes`Alt` + `V`
-Machine-outil à griffes ouvertes`Alt` + `W`	
-Ouvrir l'outil Niveaux d'échelle`Alt` + `X`
-Ouvrir l'outil Score Flipper`Alt` + `Y`	
-Activer la sélection`Alt` + `Maj` + `M`	
-Modifiez la propriété de note sélectionnée de la note sur laquelle se trouve le pointeur de la souris.`Alt` + `molette de la souris`	
-Décalez la position de la / des note (s) sélectionnée (s) OU de toutes les notes si aucune sélection n'est effectuée.`Alt` + `touches fléchées`	
-Activer / désactiver l'accrochage global (aucun, paramètre actuel)`Retour` `arrière`	
-Tout sélectionner`Ctrl` + `A`	
-Dupliquer la sélection, ou toutes les notes dans la plage de zoom si rien n'est sélectionné, vers la droite. Fonctionne également avec les sélections chronologiques.`Ctrl` + `B`	
-Copier la sélection`Ctrl` + `C`	
-Désélectionner la sélection`Ctrl` + `D`	
-Collez les notes sélectionnées et touchantes`Ctrl` + `G`	
-Insérer la valeur actuelle du contrôleur`Ctrl` + `I`	
-Légato rapide`Ctrl` + `L`	
-Importer un fichier MIDI`Ctrl` + `M`	
-Quantification rapide`Ctrl` + `Q`	
-Hache rapide`Ctrl` + `U`	
-Coller la sélection`Ctrl` + `V`	
-Couper la sélection`Ctrl` + `X`	
-Couleur de la grille`Ctrl` + `Alt` + `G`	
-Activer / désactiver le redimensionnement à partir de la gauche`Ctrl` + `Alt` + `Début`	
-Supprimer l'espace égal à la sélection`Ctrl` + `Suppr`	
-Sélectionnez le temps autour de la sélection`Ctrl` + `Entrée`	
-Insérer un espace égal à la sélection de ligne de temps actuelle`Ctrl` + `Inser`	
-Transposer la sélection UP / Down 1 octave`Ctrl` + `Flèche Haut` / `Flèche Bas`	
-Sélectionnez l'heure avant (à gauche) ou après (à droite) la sélection actuelle`Ctrl` + `Flèche gauche` / `Flèche droite`	
-Sélectionner`Ctrl` + `clic gauche`	
-Ajouter à la sélection`Ctrl` + `Maj` + `clic gauche`	
-Zoom sur la sélection / Faites glisser pour effectuer un zoom sur la sélection (zoom au relâchement)`Ctrl` + `clic droit`	
-Supprimer sélectionnée`Del`	
-Ouvrir les propriétés de la note`Double-cliquez sur la note`	
-Basculez vers Ghost Channel pour modifier la note. `Double clic droit` ou `bouton X1` sur la note Ghost	
-Ajouter et redimensionner des notes (déplacez la souris vers G / D après un clic et maintenez pour redimensionner)`Maj gauche` + `clic gauche` (sur piano roll)	
-Vue panoramique`Maj gauche` + `clic droit`	
-Aperçu audio`Alt gauche` + `clic droit`	
-Vue panoramique (maintenez et faites glisser vers la gauche / droite)`Bouton central de la souris`	
-Zoom avant Zoom arrière`PgUp` / `PgDown`	
-Passer à la peinture`Outil de dessin` + `Maj`	
-Supprimer les notes sélectionnées`Clic-droit`	
-Quantifier sélectionné`Alt droit` + `clic droit`	
-Découpez les notes (cliquez au-dessus / au-dessous de la note et faites glisser verticalement)`Maj droite` + `clic gauche`	
-Découpez les notes et supprimez la plus petite partie (cliquez au-dessus / au-dessous de la note et faites glisser verticalement)`Maj droite` + `clic droit`	
-Définir une signature rythmique au niveau de la tête de lecture ou de la sélection d'heure`Maj` + `Alt` + `T`	
-Coller depuis le presse-papiers MIDI`Maj` + `Ctrl` + `V`	
-Sélectionnez par couleur`Maj` + `C`	
-Supprimer les longueurs de note sélectionnées`Maj` + `D`	
-Groupe sélectionné`Maj` + `G`	
-Sélectionnez le canal suivant, dans le motif sélectionné, avec les données de note.`Maj` + `H`	
-Inverser la sélection`Maj` + `I`	
-Sélectionnez la chaîne suivante`Maj` + `K`	
-Sélection de sourdine`Alt` + `M`	
-Désactiver l'accord sélectionné`Maj` + `N`	
-Quantification rapide`Maj` + `Q`	
-Sélectionnez des groupes de notes au hasard`Maj` + `M`	
-Sélectionnez au hasard (plusieurs pressions sélectionneront plus de notes)`Maj` + `R`	
-Déplacer la sélection vers la gauche / droite`Maj` + `Flèche Gauche` / `Flèche Droite`	
-la sélection vers le haut / le bas`Maj` + `Flèche Haut` / `Flèche Bas	Déplacer` 
-Cloner (faire glisser tout en maintenant le clip / motif), relâchez Shift après avoir fait glisser pour déverrouiller le mouvement vertical`Maj` + `clic gauche`	
-(sur les clips)	Déplacer la position du clip`Maj` + `molette de la souris` 
-Réorganiser les pistes de clip`Maj` + `molette de la souris` (dans la zone d'étiquette de piste)	
-Centrer la liste de lecture sur la position de la tête de lecture (numéros au-dessus des touches de saisie)`Maj` + `0 (zéro)`	
-Niveaux de zoom horizontal 1 (zoom arrière) à 3 (zoom avant), (chiffres au-dessus des touches de saisie)`Maj` + `1 à 3`	
-Zoom horizontal, tout afficher (chiffres au-dessus des touches de saisie)`Maj` + `4`	
-Zoom sur la sélection (chiffres au-dessus des touches de saisie)`Maj` + `5`	
+- Outil de peinture`B`	
+- Outil de tranche`C`	
+- Supprimer l'outil`D`	
+- Sélectionner l'outil`E`	
+- Afficher la propriété suivante dans la voie des événements Piano Roll (section inférieure)`F`	
+- Sélectionnez la chaîne ci-dessus`g`	
+- Sélectionnez le canal ci-dessus avec les données de note`H`	
+- Sélectionnez le canal ci-dessous avec les données de note`J`	
+- Sélectionnez la chaîne ci-dessous`K`	
+- Activer / désactiver le mode d'affichage du clavier`M`	
+- Basculer le portamento`O`	
+- Outil de dessin (crayon)`P`	
+- Outil muet`T`	
+- Outil de lecture`Y`	
+- Outil de zoom`Z`	
+- (très utile lorsqu'il est combiné avec d'autres modificateurs)`Alt`	`Bypass snap` 
+- Arpégiateur`Alt` + `A`	
+- Afficher les aides de notes`Alt` + `B`	
+- Changer la couleur de la / des note / s sélectionnée (au groupe de couleurs sélectionné)`Alt` + `C`	
+- Machine à riff`Alt` + `E`	
+- Flam `Alt` + `F`	
+- Dissocier les notes sélectionnées`Alt` + `G`	
+- Outil de limite ouverte`Alt` + `K`	
+- Ouvrir l'outil Articulate`Alt` + `L`	
+- Sélection de sourdine`Alt` + `M`	
+- Changer la vue de l'assistant de forme d'onde (si disponible).`Alt` + `N`	
+- Ouvrez l'outil LFO dans la zone inférieure de l'éditeur d'événements`Alt` + `O`	
+- Quantifier`Alt` + `Q`	
+- Ouvrir l'outil Randomize`Alt` + `R`	
+- Ouvrir l'outil Strum`Alt` + `S`	
+- Ouvrir l'outil Chop`Alt` + `U`	
+- Activer / désactiver les canaux fantômes`Alt` + `V`
+- Machine-outil à griffes ouvertes`Alt` + `W`	
+- Ouvrir l'outil Niveaux d'échelle`Alt` + `X`
+- Ouvrir l'outil Score Flipper`Alt` + `Y`	
+- Activer la sélection`Alt` + `Maj` + `M`	
+- Modifiez la propriété de note sélectionnée de la note sur laquelle se trouve le pointeur de la souris.`Alt` + `molette de la souris`	
+- Décalez la position de la / des note (s) sélectionnée (s) OU de toutes les notes si aucune sélection n'est effectuée.`Alt` + `touches fléchées`	
+- Activer / désactiver l'accrochage global (aucun, paramètre actuel)`Retour` `arrière`	
+- Tout sélectionner`Ctrl` + `A`	
+- Dupliquer la sélection, ou toutes les notes dans la plage de zoom si rien n'est sélectionné, vers la droite. Fonctionne également avec les sélections chronologiques.`Ctrl` + `B`	
+- Copier la sélection`Ctrl` + `C`	
+- Désélectionner la sélection`Ctrl` + `D`	
+- Collez les notes sélectionnées et touchantes`Ctrl` + `G`	
+- Insérer la valeur actuelle du contrôleur`Ctrl` + `I`	
+- Légato rapide`Ctrl` + `L`	
+- Importer un fichier MIDI`Ctrl` + `M`	
+- Quantification rapide`Ctrl` + `Q`	
+- Hache rapide`Ctrl` + `U`	
+- Coller la sélection`Ctrl` + `V`	
+- Couper la sélection`Ctrl` + `X`	
+- Couleur de la grille`Ctrl` + `Alt` + `G`	
+- Activer / désactiver le redimensionnement à partir de la gauche`Ctrl` + `Alt` + `Début`	
+- Supprimer l'espace égal à la sélection`Ctrl` + `Suppr`	
+- Sélectionnez le temps autour de la sélection`Ctrl` + `Entrée`	
+- Insérer un espace égal à la sélection de ligne de temps actuelle`Ctrl` + `Inser`	
+- Transposer la sélection UP / Down 1 octave`Ctrl` + `Flèche Haut` / `Flèche Bas`	
+- Sélectionnez l'heure avant (à gauche) ou après (à droite) la sélection actuelle`Ctrl` + `Flèche gauche` / `Flèche droite`	
+- Sélectionner`Ctrl` + `clic gauche`	
+- Ajouter à la sélection`Ctrl` + `Maj` + `clic gauche`	
+- Zoom sur la sélection / Faites glisser pour effectuer un zoom sur la sélection (zoom au relâchement)`Ctrl` + `clic droit`	
+- Supprimer sélectionnée`Del`	
+- Ouvrir les propriétés de la note`Double-cliquez sur la note`	
+- Basculez vers Ghost Channel pour modifier la note. `Double clic droit` ou `bouton X1` sur la note Ghost	
+- Ajouter et redimensionner des notes (déplacez la souris vers G / D après un clic et maintenez pour redimensionner)`Maj gauche` + `clic gauche` (sur piano roll)	
+- Vue panoramique`Maj gauche` + `clic droit`	
+- Aperçu audio`Alt gauche` + `clic droit`	
+- Vue panoramique (maintenez et faites glisser vers la gauche / droite)`Bouton central de la souris`	
+- Zoom avant Zoom arrière`PgUp` / `PgDown`	
+- Passer à la peinture`Outil de dessin` + `Maj`	
+- Supprimer les notes sélectionnées`Clic-droit`	
+- Quantifier sélectionné`Alt droit` + `clic droit`	
+- Découpez les notes (cliquez au-dessus / au-dessous de la note et faites glisser verticalement)`Maj droite` + `clic gauche`	
+- Découpez les notes et supprimez la plus petite partie (cliquez au-dessus / au-dessous de la note et faites glisser verticalement)`Maj droite` + `clic droit`	
+- Définir une signature rythmique au niveau de la tête de lecture ou de la sélection d'heure`Maj` + `Alt` + `T`	
+- Coller depuis le presse-papiers MIDI`Maj` + `Ctrl` + `V`	
+- Sélectionnez par couleur`Maj` + `C`	
+- Supprimer les longueurs de note sélectionnées`Maj` + `D`	
+- Groupe sélectionné`Maj` + `G`	
+- Sélectionnez le canal suivant, dans le motif sélectionné, avec les données de note.`Maj` + `H`	
+- Inverser la sélection`Maj` + `I`	
+- Sélectionnez la chaîne suivante`Maj` + `K`	
+- Sélection de sourdine`Alt` + `M`	
+- Désactiver l'accord sélectionné`Maj` + `N`	
+- Quantification rapide`Maj` + `Q`	
+- Sélectionnez des groupes de notes au hasard`Maj` + `M`	
+- Sélectionnez au hasard (plusieurs pressions sélectionneront plus de notes)`Maj` + `R`	
+- Déplacer la sélection vers la gauche / droite`Maj` + `Flèche Gauche` / `Flèche Droite`	
+- la sélection vers le haut / le bas`Maj` + `Flèche Haut` / `Flèche Bas	Déplacer` 
+- Cloner (faire glisser tout en maintenant le clip / motif), relâchez Shift après avoir fait glisser pour déverrouiller le mouvement vertical`Maj` + `clic gauche`	
+- Déplacer la position du clip(sur les clips) `Maj` + `molette de la souris` 
+- Réorganiser les pistes de clip`Maj` + `molette de la souris` (dans la zone d'étiquette de piste)	
+- Centrer la liste de lecture sur la position de la tête de lecture (numéros au-dessus des touches de saisie)`Maj` + `0 (zéro)`	
+- Niveaux de zoom horizontal 1 (zoom arrière) à 3 (zoom avant), (chiffres au-dessus des touches de saisie)`Maj` + `1 à 3`	
+- Zoom horizontal, tout afficher (chiffres au-dessus des touches de saisie)`Maj` + `4`	
+- Zoom sur la sélection (chiffres au-dessus des touches de saisie)`Maj` + `5`	
 
 
 
