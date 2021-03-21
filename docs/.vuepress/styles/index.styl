@@ -92,6 +92,14 @@ h2
 .sidebar
   border-right-color var(--borderColor)
 
+.search-box input
+  color: $bgColor !important
+.search-box .suggestions
+  background: $bgColor !important
+.search-box .suggestion.focused
+  background-color: lighten($bgColor, 10%) !important
+
+
 {$contentClass}:not(.custom) p.demo
 kbd
   border-color var(--borderColor)
@@ -261,6 +269,6 @@ div[class*='language-'].line-numbers-mode .line-numbers-wrapper
     background-color var(--languageTextColor)
     border-radius 6px
 
-.home-table table
+.home-page table
   width: 100%
   border: 0 none
