@@ -35,6 +35,14 @@ module.exports = {
                 ]
             },
             {
+                title: 'Glossaire',
+                collapsable: true,
+                sidebarDepth: 2,
+                children: [
+                    '/glossaire'
+                ]
+            },
+            {
                 title: 'A propos',
                 collapsable: true,
                 sidebarDepth: 2,
