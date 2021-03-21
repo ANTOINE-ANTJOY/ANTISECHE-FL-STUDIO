@@ -15,6 +15,43 @@ module.exports = {
         ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
     ],
 
+    // theme: 'default-prefers-color-scheme',
+    themeConfig: {
+        // overrideThxeme: 'dark',
+        // prefersTheme: 'dark',
+
+        nav: [
+            { text: 'Accueil', link: '/' },
+            { text: 'A propos', link: '/about/' },
+            { text: 'Musique-Pro', link: 'https://musique-pro.com' }
+        ],
+        sidebar: [
+            {
+                title: 'Raccourcis',
+                collapsable: true,
+                sidebarDepth: 2,
+                children: [
+                    '/'
+                ]
+            },
+            {
+                title: 'A propos',
+                collapsable: true,
+                sidebarDepth: 2,
+                children: [
+                    '/about'
+                ]
+            },
+        ],
+        displayAllHeaders: true,
+        /*
+        algolia: {
+            apiKey: '<API_KEY>',
+            indexName: '<INDEX_NAME>'
+        }
+        */
+    },
+
     locales: {
         '/': {
             lang: 'fr-FR',
@@ -34,6 +71,12 @@ module.exports = {
             {
                 serviceWorker: true,
                 updatePopup: true
+            }
+        ],
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': '' // UA-00000000-0
             }
         ]
     ],
