@@ -39,14 +39,13 @@ deploy:staging:
 deploy:prod:
   stage: deploy
   before_script:
-    - apk add openssh-client
-    - apk add sshpass
-    - eval $(ssh-agent -s)
+    - apk add lftp
+#    - eval $(ssh-agent -s)
 #    - echo "$SSH_PRIVATE_KEY_PROD" | tr -d '\r' | ssh-add -
-    - mkdir -p ~/.ssh
-    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
-    - chmod 700 ~/.ssh
+#    - mkdir -p ~/.ssh
+#    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+#    - chmod 700 ~/.ssh
   script:
-    - sshpass -p $SSH_PASSWORD_PROD scp -r dist/* $SSH_HOST_PROD:$SSH_PATH_PROD
+    - lftp -e "open $SSH_HOST_PROD; user $SSH_USERNAME_PROD $SSH_PASSWORD_PROD; mirror -X .* -X .*/ --reverse --verbose --delete dist/* lexique/; bye"
   only:
     - master
