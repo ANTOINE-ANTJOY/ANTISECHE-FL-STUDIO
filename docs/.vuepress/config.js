@@ -23,7 +23,7 @@ module.exports = {
         nav: [
             { text: 'Accueil', link: '/' },
             { text: 'A propos', link: '/about/' },
-            { text: 'Musique-Pro', link: 'https://musique-pro.com' }
+            { text: 'Musique-Pro', link: 'https://musique-pro.fr' }
         ],
         sidebar: [
             {
@@ -40,14 +40,6 @@ module.exports = {
                 sidebarDepth: 2,
                 children: [
                     '/glossaire'
-                ]
-            },
-            {
-                title: 'A propos',
-                collapsable: true,
-                sidebarDepth: 2,
-                children: [
-                    '/about'
                 ]
             },
         ],
