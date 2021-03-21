@@ -119,9 +119,11 @@ p a code
 
 .navbar a.nav-link.external
   font-weight: bold;
+  color $accentColor
   color var(--accentColor)
 
 hr
+  border-top-color $borderColor
   border-top-color var(--borderColor)
 
 tr
@@ -132,17 +134,23 @@ tr
 
 th
 td
+  border-color $tableBorderColor
   border-color var(--tableBorderColor)
 
 .arrow.up
+  border-bottom-color $arrowBgColor
   border-bottom-color var(--arrowBgColor)
 
 .arrow.down
+  border-top-color $arrowBgColor
   border-top-color var(--arrowBgColor)
 
 .arrow.right
-border-left-color var(--arrowBgColor)
+  border-left-color $arrowBgColor
+  border-left-color var(--arrowBgColor)
+
 .arrow.left
+  border-right-color $arrowBgColor
   border-right-color var(--arrowBgColor)
 
 .center
@@ -166,12 +174,14 @@ border-left-color var(--arrowBgColor)
 {$contentClass} pre[class*='language-']
 div[class*='language-']
 div[class*='language-'].line-numbers-mode::after
+  background-color $codeBgColor
   background-color var(--codeBgColor)
 
 {$contentClass}
   pre
   pre[class*='language-']
     code
+      color $preTextColor
       color var(--preTextColor)
 
 div[class*='language-'] .highlight-lines .highlighted
@@ -251,16 +261,22 @@ div[class*='language-'].line-numbers-mode .line-numbers-wrapper
 // pwa
 .global-ui
   .sw-update-popup
+    border-color $accentColor !important
     border-color var(--accentColor) !important
+    background-color $bgColor !important
     background-color var(--bgColor) !important
+    color $textColor !important
     color var(--textColor) !important
 
     button
+      border-color $darken10AccentColor !important
       border-color var(--darken10AccentColor) !important
+      background-color $accentColor !important
       background-color var(--accentColor) !important
       color #fff !important
 
       &:hover
+        background-color $lighten10AccentColor !important
         background-color var(--lighten10AccentColor) !important
 
 // scroll bar
