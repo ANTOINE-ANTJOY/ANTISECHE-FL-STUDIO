@@ -40,11 +40,6 @@ deploy:prod:
   stage: deploy
   before_script:
     - apk add lftp
-#    - eval $(ssh-agent -s)
-#    - echo "$SSH_PRIVATE_KEY_PROD" | tr -d '\r' | ssh-add -
-#    - mkdir -p ~/.ssh
-#    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
-#    - chmod 700 ~/.ssh
   script:
     - lftp -e "open $SSH_HOST_PROD; user $SSH_USERNAME_PROD $SSH_PASSWORD_PROD; mirror -X .* -X .*/ --reverse --verbose --delete dist/ lexique/; bye"
   only:
