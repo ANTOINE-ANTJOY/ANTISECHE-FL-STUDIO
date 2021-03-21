@@ -27,7 +27,7 @@ module.exports = {
         ],
         sidebar: [
             {
-                title: 'Les Raccourcis',
+                title: 'Raccourcis',
                 collapsable: true,
                 sidebarDepth: 2,
                 children: [
