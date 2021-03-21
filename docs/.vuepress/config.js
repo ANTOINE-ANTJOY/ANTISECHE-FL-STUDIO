@@ -74,9 +74,9 @@ module.exports = {
             }
         ],
         [
-            '@vuepress/google-analytics',
+            require('./plugins/google-analytics'),
             {
-                'ga': '' // UA-00000000-0
+                'ga': 'G-RH1M46M0CK'
             }
         ]
     ],
