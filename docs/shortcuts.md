@@ -7,7 +7,7 @@ Retour / Retour en arrière. `Ctrl`+`Z`
 Retour pas à pas. `Ctrl`+`Alt`+`Z`
 
 
-## Enregistrer/Ouvrir projet et ajuster les fenêtres
+## Enregistrer/Ouvrir un projet et ajuster les fenêtres
 
 - Fichier ouvert `Ctrl` + `O`
 - Enregistrer le fichier `Ctrl` + `S`
@@ -72,7 +72,7 @@ Retour pas à pas. `Ctrl`+`Alt`+`Z`
 - Basculer l'enregistrement du précompte du métronome`Ctrl` + `P`
 - Activer / désactiver l'attente d'entrée pour démarrer l'enregistrement`Ctrl` + `I`
 
-## Gérer/naviguer dans les fenêtres FL
+## Gérer/naviguer dans les fenêtres de FL 
 
 - Faire défiler les fenêtres imbriquées`TAB`
 - Ouvrir le sélecteur de plugins`F8`
