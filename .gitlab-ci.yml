@@ -41,11 +41,11 @@ deploy:prod:
   before_script:
     - apk add openssh-client
     - eval $(ssh-agent -s)
-    - echo "$SSH_PRIVATE_KEY_PROD" | tr -d '\r' | ssh-add -
+#    - echo "$SSH_PRIVATE_KEY_PROD" | tr -d '\r' | ssh-add -
     - mkdir -p ~/.ssh
     - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
     - chmod 700 ~/.ssh
   script:
-    - scp -r dist/* $SSH_HOST_PROD:$SSH_PATH_PROD
+    - sshpass -p $SSH_PASSWORD_PROD scp -r dist/* $SSH_HOST_PROD:$SSH_PATH_PROD
   only:
     - master
