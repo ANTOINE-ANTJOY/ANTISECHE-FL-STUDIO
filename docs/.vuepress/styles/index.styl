@@ -41,7 +41,7 @@ html
   --accentColor $accentColor
   --textColor $textColor
   --borderColor $borderColor
-  --codeBgColor $codeBgLightColor
+  --codeBgColor $codeBgColor
   --arrowBgColor $arrowBgColor
   --badgeTipColor $badgeTipColor
   --badgeWarningColor $badgeWarningColor
@@ -150,7 +150,9 @@ border-left-color var(--arrowBgColor)
 
 // code
 {$contentClass} code
+  color $lighten20TextColor
   color var(--lighten20TextColor)
+  background-color $miniCodeBgColor
   background-color var(--miniCodeBgColor)
 
   .token.inserted
