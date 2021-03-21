@@ -40,6 +40,7 @@ deploy:prod:
   stage: deploy
   before_script:
     - apk add openssh-client
+    - apk add sshpass
     - eval $(ssh-agent -s)
 #    - echo "$SSH_PRIVATE_KEY_PROD" | tr -d '\r' | ssh-add -
     - mkdir -p ~/.ssh
