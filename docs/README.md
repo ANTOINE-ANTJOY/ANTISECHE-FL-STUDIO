@@ -21,7 +21,7 @@ Retour pas à pas. `Ctrl`+`Alt`+`Z`
 
 ## Raccourcis pour la selection/personalisation de Pattern
 
-- Sélectionner les Patterns 1..9`1..9`	
+- Sélectionner les Patterns `1..9`	
 - Pattern suivant`+`	
 - Pattern précédent`-`	
 - Ouvrez l'éditeur de nom pour le pattern sélectionné. Appuyez plusieur fois pour choisir une couleurs au hasard.`F2`	
