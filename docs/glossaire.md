@@ -26,9 +26,9 @@ Le type d'enveloppe le plus courant est appelé ADSR (Attack, Decay, Sustain, Re
 L'oscillateur peut avoir une fréquence fixe ou variable.  
 `LFO` Oscillateur basse fréquence. Il est utilisé pour moduler une commande sur un synthétiseur ou un effet. Il utile pour simuler des effets d'instruments naturels, tels que le vibrato (en appliquant le LFO à la hauteur de ton) et le trémolo (le LFO appliqué au volume).  
 `BENDER`(Bend): le bender sert à tordre le son vers le grave ou l’aigu grâce à un ou plusieurs paramètres auquel il est associé.  
-Il peut agir manuellement (molette, joystick ou potentiomètre) ou automatiquement via un générateur d’enveloppe.  
 ` CHORUS`l’effet de est créé artificiellement en modulant un rapport cyclique, c’est-à-dire en changeant périodiquement la valeur relative de la durée des alternances positives et négatives du signal.  
 `DOUBLING`(doublage) : le doubling est une augmentation de la hauteur du son d’une octave. Le passage peut être progressif, le fondamental se trouve alors enrichi de l’harmonique 2.  
 `GLIDE` Le glide consiste à assurer le passage d’une note à l’autre progressivement (en glissant).  
 `NOISE`: Le bruit est considéré comme un élément parasite dans le domaine de l‘amplification, dans le synthétiseur, il apporte un élément de nature aléatoire et non musical.  
 `WAVE SHAPE` (forme d’onde): Généré par l'`Oscillateur` : sinus, carré, dent de scie,
+
