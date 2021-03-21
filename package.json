@@ -2,13 +2,15 @@
   "name": "@musique-pro/fl-lexique",
   "version": "1.0.0",
   "repository": "ssh://git@gitlab.edwc.tech:10022/musique-pro/fl-lexique.git",
-  "author": "Etienne Dewailly ∙ ED WEB Créations <etienne@edwebcreations.fr>",
+  "author": "GUIDEZ Antoine ∙ Musique Pro <contact@musique-pro.fr>",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "@vuepress/plugin-pwa": "^1.8.1",
     "vuepress": "^1.8.1"
   }
 }
