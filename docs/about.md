@@ -8,10 +8,10 @@ Vous  trouverez tous les raccouçis possible ainsi que de nombreuses définition
 
 L'avantage de cette page c'est qu'elle est facile à intégrer dans FL studio en copiant ce lien et en le collant ici :
 
-Bonne composition
+Bonne composition :)
 
 Musicalement,
 
 Antoine de Musique Pro
 
-# Vous souhaitez collaborez ?
+# Vous souhaitez collaborer ?
