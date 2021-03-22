@@ -2,7 +2,7 @@
 
 L'Antisèche est un projet collaboratif créé par Antoine (ANTJOY) du site musique-pro.fr pour sa communauté YouTube.  
 
-L'objectif est d'avoir un outils facile à ouvrir dans FL Studio pour nous aider en cas de panne sèche.  
+L'objectif est d'avoir un outil facile à ouvrir dans FL Studio pour nous aider en cas de panne sèche.  
 
 ##  Quels sont les outils disponibles ?
 
@@ -12,15 +12,15 @@ La première version de l'antisèche propose 2 outils :
 
 ##  Peut-on mettre l'antisèche à jour ?
 
-Souhaitant que ce soit votre outil ainsi qu'évolutif, ce projet est en open source et peut facilement ête mis à jour par tous les contributeurs.  
+Souhaitant que ce soit votre outil ainsi qu'évolutif, ce projet est en open source et peut facilement être mis à jour par tous les contributeurs.  
 
-##  Comment contribuez ?
+##  Comment contribuer ?
 
-Pour participer à l'évolution de ce projet, je vous est préparé une courte vidéo explicative juste ici :
+Pour participer à l'évolution de ce projet, je vous ai préparé une courte vidéo explicative juste ici :
 
-##  Remerciement
+##  Remerciements
 
-Merci à l'entreprise *ED WEB Créations* pour m'avoir aidé à mettre cet outils sur pied ainsi qu'a tous les futurs contributeurs.
+Un grand merci à l'entreprise *ED WEB Créations* de m'avoir aidé à mettre l'antisèche sur pied ainsi qu'a tous les futurs contributeurs.
 
 Faites en bon usage ! :)
 
