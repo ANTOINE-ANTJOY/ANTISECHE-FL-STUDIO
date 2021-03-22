@@ -1,13 +1,13 @@
 module.exports = {
     dest: 'dist',
 
-    title: 'Lexique FL Studio - Musique Pro',
+    title: "L'antisèche de FL Studio - Musique Pro",
     description: 'Glossaire FL Studio par Musique Pro',
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
         ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-        ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+        ['meta', { name: 'apple-mobile-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
         ['link', { rel: 'apple-touch-icon', href: '/icons/apple-touch-icon-152x152.png' }],
         ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
@@ -55,7 +55,7 @@ module.exports = {
     locales: {
         '/': {
             lang: 'fr-FR',
-            title: 'Lexique FL Studio - Musique Pro',
+            title: "L'antisèche de FL Studio - Musique Pro",
             serviceWorker: {
                 updatePopup: {
                     message: 'Une mise à jour est disponible',
