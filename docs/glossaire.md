@@ -48,5 +48,5 @@ L'oscillateur peut avoir une fréquence fixe ou variable.
 
 **NOISE :** Le bruit est considéré comme un élément parasite dans le domaine de l‘amplification, dans le synthétiseur, il apporte un élément de nature aléatoire et non musical.  
 
-**WAVE SHAPE :** (forme d’onde): Généré par l'Oscillateur : sinus, carré, dent de scie,
+**WAVE SHAPE :** (forme d’onde): Généré par l'Oscillateur : sinus, carré, dent de scie, 😀
 
