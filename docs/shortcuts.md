@@ -1,5 +1,16 @@
 # Les raccourcis
 
+## Le TOP 10 à connaître : 
+- `Ctrl` + `A` Sélectionne toutes les notes du piano roll
+- `Ctrl` + `C` & `Ctrl` + `V` Copiez/collez la selection
+- `Ctrl` + `B` Duplique la selection vers la droite
+- `Ctrl` + `D` Désélectionne les notes en surbrillances
+- `Ctrl` + `tourche Haut/Bas`  Transpose la sélection de +1 ou -1 octave
+- `Maj` + `tourche Haut/Bas`  Transpose la sélection de +1 ou -1 demi-ton
+- `Maj` + `touche gauche/droite` Décaler la sélection vers la gauche ou vers la droite dans le piano roll
+- `Alt` + `V` Active ou désactive la fonction de notes fantômes.
+- `Ctrl` + `Q` Quantifiera automatiquement la sélection afin que les notes jouent parfaitement en rythme
+- `Ctrl` + `U` Permet de découper rapidement une note en focntion de la grille.
 ## Raccourcis globaux
 
 
